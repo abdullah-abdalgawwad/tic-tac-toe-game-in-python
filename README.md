@@ -37,11 +37,12 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 
   **Example of the Game Board**
 
- 1 | 2 | 3 
------------
- 4 | 5 | 6 
------------
- 7 | 8 | 9 
+      1 | 2 | 3 
+     -----------
+      4 | 5 | 6 
+     -----------
+      7 | 8 | 9 
+ 
 
 ## Game Logic
 
